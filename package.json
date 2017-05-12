@@ -1,0 +1,29 @@
+{
+  "name": "dbk-microsite",
+  "version": "0.1",
+  "description": "Blank project for microsites",
+  "main": "bundle.js",
+  "author": "DBK",
+  "license": "MIT",
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
+    "css-loader": "^0.28.0",
+    "expose-loader": "^0.7.3",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "html-webpack-plugin": "^2.28.0",
+    "in-viewport": "^3.4.2",
+    "jquery": "^3.2.1",
+    "normalize.css": "^7.0.0",
+    "parallax-js": "^1.0.0",
+    "pug": "^2.0.0-beta11",
+    "pug-cli": "^1.0.0-alpha6",
+    "pug-loader": "^2.3.0",
+    "style-loader": "^0.16.1",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.1",
+    "webpack": "^2.4.1"
+  }
+}
